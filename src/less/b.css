@@ -1,0 +1,7 @@
+p {
+  text-align: center;
+  overflow-y: hidden;
+}
+p a {
+  color: green;
+}
